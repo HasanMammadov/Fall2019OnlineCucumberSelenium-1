@@ -14,5 +14,5 @@ import org.junit.runner.RunWith;
         }
 
 )
-public class FailedRunner {
+public class FailedRunner {// will run only failed
 }
